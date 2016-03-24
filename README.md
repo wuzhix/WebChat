@@ -9,4 +9,4 @@
 ## php程序
 正常配置站点即可
 
-消息协议请参考：[chat协议文档.docx](https://www.zybuluo.com/cmd/)
+消息协议请参考：[chat协议文档.docx](https://github.com/wzx19840423/WebChat/blob/master/doc/chat%E5%8D%8F%E8%AE%AE%E6%96%87%E6%A1%A3.docx)
